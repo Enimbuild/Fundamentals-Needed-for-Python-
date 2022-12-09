@@ -3,4 +3,11 @@
 
 ## ***Please create your own branch and add your experiences***
 
+General Overview
+* Introduction to Linux & MacOS
+* Shells & Desktop Environments
+* Unix filesystem
+***viewing and navigating***
+* Files System
+
 ## To be updated daily, weekly or even monthly

@@ -1,2 +1,2 @@
-# Git commands
-open gitcommandsfile
+# commands
+#### for now just git commands
